@@ -1,2 +1,2 @@
 # Deus-Ex-Machina
-Model Tank Under Development.
+Combat Model RC/Autonomous Tank Under Development.
