@@ -17,7 +17,7 @@ Will have it's own turret(an EM gun, basically railgun or coilgun). Terrain mapp
 
 ## Tech Stack
 
-**Software:** Arduino IDE, Blender, Flutter
+**Software:** Arduino IDE, Blender/Solidworks, Flutter
 
 **Hardware:** PCB/circuit design, Mechanics/Mechatronics 
 
@@ -37,10 +37,10 @@ Will have it's own turret(an EM gun, basically railgun or coilgun). Terrain mapp
 ## Features
 
 - IoT
-- Robust All terrain Suspension System
+- Robust All terrain Suspension and Mobility System
 - EM Turret Module
 - Ardu Pilot Features
-- Dedicated application for User interface
+- Dedicated android application for controlling and User interface
 
 
 
