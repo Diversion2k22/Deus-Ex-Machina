@@ -25,7 +25,7 @@ Will have it's own turret(an EM gun, basically railgun or coilgun). Terrain mapp
 ## Roadmap
 
 
-- 3D Modelling the Body of the tank its Suspension and the Caterpiller Tracks.
+- 3D Modelling the Body of the tank, its Suspension and the Caterpiller Tracks.
 
 - Figuring out the electronics and finalizing it.
 
