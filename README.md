@@ -6,8 +6,8 @@ Will have it's own turret(an EM gun, basically railgun or coilgun). Terrain mapp
 
 ## 
 
-<img align="middle" alt="Logo" src="https://render.fineartamerica.com/images/images-profile-flow/400/images/artworkimages/mediumlarge/3/deusexmachina-andrew-nisorri.jpg">
-<img src="https://c.tenor.com/0ByvvM-OrxcAAAAC/love-nikki-miracle-nikki.gif" style="height: 200px; width:200px;"/>
+![Logo](https://c.tenor.com/0ByvvM-OrxcAAAAC/love-nikki-miracle-nikki.gif.jpg)
+<img alt="Logo" src="https://render.fineartamerica.com/images/images-profile-flow/400/images/artworkimages/mediumlarge/3/deusexmachina-andrew-nisorri.jpg">
 
 
 ![Logo](https://biz.prlog.org/deusexmachina/logo.jpg)
