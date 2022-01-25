@@ -14,6 +14,13 @@ Before you begin working on the project, it is important that you share your int
     - Pick an issue and comment that you'd like to work on the feature or bug-fix.
     - If you need more context on a particular issue, please ask and we shall provide.
 
+Run the following to add the code to the repo:
+```
+git add -A
+git commit -m "<message about the commit>"
+git push
+```
+
 Once you implement and test your feature or bug-fix, please submit a Pull Request to
 https://github.com/warp007x/Deus-Ex-Machina.
 
