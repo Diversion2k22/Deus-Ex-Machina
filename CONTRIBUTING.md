@@ -1,7 +1,7 @@
 # Contributing to Deus Ex Machina
 
 ## Thank you for your interest in contributing to Deus Ex Machina! 
-<img src="https://c.tenor.com/WGRtriUAdtwAAAAi/miracle-nikki-thanks.gif" alt="Thanks for the Contribution" style="height: 100px; width:100px;"/>
+<img src="https://c.tenor.com/WGRtriUAdtwAAAAi/miracle-nikki-thanks.gif" alt="Thanks for the Contribution" style="height: 150px; width:150px;"/>
 
 Before you begin working on the project, it is important that you share your intention to contribute with the team, based on the type of contribution:
 
