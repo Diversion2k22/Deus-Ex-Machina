@@ -7,6 +7,7 @@ Will have it's own turret(an EM gun, basically railgun or coilgun). Terrain mapp
 ## 
 
 ![Logo](https://render.fineartamerica.com/images/images-profile-flow/400/images/artworkimages/mediumlarge/3/deusexmachina-andrew-nisorri.jpg)
+<img src="https://render.fineartamerica.com/images/images-profile-flow/400/images/artworkimages/mediumlarge/3/deusexmachina-andrew-nisorri.jpg" alt="MarineGEO circle logo" class="center"/>
 
 
 ![Logo](https://biz.prlog.org/deusexmachina/logo.jpg)
