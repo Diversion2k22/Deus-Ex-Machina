@@ -3,8 +3,8 @@
 #include <WiFiClient.h> 
 #include <ESP8266WebServer.h>
 
-const char* host = "WiFi_SWITCHBLADE-TANK_NodeMCU";
-const char* ssid = "Auto-Sanitizing Robot";
+const char* host = "WiFi_TANK_NodeMCU";
+const char* ssid = "DEUS Ex-Machina";
 
 ESP8266WebServer server(80);
 
