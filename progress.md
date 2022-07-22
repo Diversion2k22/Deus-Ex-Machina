@@ -20,6 +20,8 @@
 - Log 3: Added code for Node MCU as an Access Point.
 - Log 4: Added Driver code
 
+## Video Link: https://www.canva.com/design/DAE986_MUAw/TMf-Jli0dcZYsSgK5288wQ/watch?utm_content=DAE986_MUAw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+
 ## Photos
 
 ![View](https://user-images.githubusercontent.com/90892206/162629972-125f6f44-7606-407d-9441-ce87d327ebe2.jpeg)
